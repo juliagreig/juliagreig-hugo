@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://juliagreig.github.io/"
+baseurl = "http://juul1a.com"
 languageCode = "en-us"
 title = "Julia"
 theme = "hugo-cactus-theme"
@@ -10,7 +10,7 @@ disqusShortname = ""
 pluralizelisttitles = false
 
 [params]
-	name = "Julia"
+	name = "julia"
 	greeting = "hi i'm julia"
 	description = "doin cool things"
 	bio = "hobby game developer, coder, artist<br> let's be friends"
