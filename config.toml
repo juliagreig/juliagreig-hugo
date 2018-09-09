@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://juul1a.com"
+baseurl = "http://juul1a.com/"
 languageCode = "en-us"
 title = "Julia"
 theme = "hugo-cactus-theme"
