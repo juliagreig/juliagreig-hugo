@@ -5,6 +5,12 @@ description = "First description"
 published = "true"
 +++
 
-Julia's first article
+Blog post number one
 
-Hey this is where julia does some ver cool stuff
+Here's the first blog post on the site
+
+Not sure if this'll work
+
+it will
+
+k
